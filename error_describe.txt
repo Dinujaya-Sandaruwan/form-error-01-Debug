@@ -1,0 +1,12 @@
+Frist vist registration.php and register new account. 
+Then visit to login.php and login to the add.php after doing that error is on this add.php and add2.php codes.
+form didn,t submit correctly.
+plz help me to correct them.
+
+
+error is in
+            add.php
+            and
+            add2.php
+
+            
